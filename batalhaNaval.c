@@ -1,6 +1,4 @@
 #include <stdio.h>
-int main() {
-   #include <stdio.h>
  int main(){
  int tabuleiro [10][10]= {0};
  int navio_horizontal [3]= {3,3,3};
@@ -33,6 +31,3 @@ printf("\nTabuleiro com navio horizontal:\n");
  
  }
 
-
-    return 0;
-}
